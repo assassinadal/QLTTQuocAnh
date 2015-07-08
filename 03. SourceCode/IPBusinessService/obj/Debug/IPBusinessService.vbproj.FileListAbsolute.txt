@@ -1,0 +1,10 @@
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\bin\IPBusinessService.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\bin\IPBusinessService.xml
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\bin\IPException.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\bin\IPException.pdb
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\bin\IPException.xml
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.vbprojResolveAssemblyReference.cache
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb
