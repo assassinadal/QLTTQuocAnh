@@ -1,0 +1,7 @@
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPData\bin\IPData.dll.config
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPData\bin\IPData.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPData\bin\IPData.pdb
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPData\bin\IPData.xml
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPData\obj\Debug\IPData.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPData\obj\Debug\IPData.xml
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPData\obj\Debug\IPData.pdb

@@ -1,0 +1,11 @@
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\bin\IPExcelWebReport.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\bin\IPExcelWebReport.pdb
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\bin\IPExcelWebReport.xml
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\bin\C1.Win.C1FlexGrid.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\bin\Interop.Excel.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\bin\Interop.Microsoft.Office.Core.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\bin\Interop.Office.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\bin\C1.Common.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\obj\Debug\IPExcelWebReport.dll
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\obj\Debug\IPExcelWebReport.xml
+D:\03. Work\01. BKIndex\00. Quan Ly Tai Chinh Trung Tam Quoc Anh\03. SourceCode\IPExcelWebReport\obj\Debug\IPExcelWebReport.pdb
